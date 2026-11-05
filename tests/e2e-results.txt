@@ -1,0 +1,150 @@
+PASS  Content: Mission
+PASS  Content: Vision
+PASS  Content: Goal
+PASS  Content: History
+PASS  Content: Founded
+PASS  Content: Sample products
+PASS  Content: Logo process container
+PASS  Content: Logo breakdown
+PASS  Content: Primary logo slot
+PASS  Content: Monochrome logo slot
+PASS  Content: Secondary logo label
+PASS  Content: Logo typography
+PASS  Content: Primary palette hex
+PASS  Content: Secondary palette hex
+PASS  Content: Post palette hex
+PASS  Content: Post typography
+PASS  Content: Poster palette hex
+PASS  Content: Poster typography
+PASS  Content: Demo notice
+PASS  Team name: Delfin, Dan
+PASS  Team name: Lopez, Francheska Claire
+PASS  Team name: Marañon, Hannah Cassandra
+PASS  Team name: Vizcarra, Renato
+PASS  Caption matches the supplied text exactly
+PASS  Caption has no "See less"
+PASS  Caption credits Vizcarra, Renato S.
+PASS  Misspelling Vizcara is gone
+PASS  Approved S symbolism is shown  (The curved squid body and cup help form the letter S, tying food and drink together.)
+PASS  Old S wording is gone
+PASS  Banned text absent: Lorem
+PASS  Banned text absent: lorem ipsum
+PASS  Banned text absent: RoyKrak
+PASS  Banned text absent: Grip
+PASS  Banned text absent: Slicehaus
+PASS  Banned text absent: Takoyaki
+PASS  No prices in page text
+PASS  Three placeholder frames shown  (Logo Design Process, Primary Logo, Monochrome Logo)
+PASS  No broken images
+PASS  All images loaded after a full scroll  (0 pending)
+PASS  Every image has an alt attribute
+PASS  One h1 and no skipped heading levels
+PASS  Corrected poster keeps its original size  (864x1080)
+PASS  No console errors, warnings or failed requests
+PASS  Desktop has exactly two pinned scenes  (2)
+PASS  Hero tray stays above the cup until the visitor scrolls  (-76.0px)
+PASS  Final tagline note waits for scrolling  (hidden)
+PASS  Scrolling seats the hero tray on the cup  (0.0px)
+PASS  Tagline notes all appear
+PASS  Straw is filling with orange in the top tray  (23.7)
+PASS  Nav link scrolls to #brand  (top 88px)
+PASS  Nav link scrolls to #team  (top 88px)
+PASS  Nav link scrolls to #products  (top 88px)
+PASS  Nav link scrolls to #logo  (top 88px)
+PASS  Nav link scrolls to #post  (top 88px)
+PASS  Nav link scrolls to #poster  (top 88px)
+PASS  Nav link scrolls to #spin  (top 88px)
+PASS  Straw turns blue past the rim  (#1F65FF)
+PASS  Scrolling the breakdown shows "K is for Krak"  (K is for Krak)
+PASS  Scrolling the breakdown shows "S is for Sip"  (S is for Sip)
+PASS  Scrolling the breakdown shows "I is for Sip"  (I is for Sip)
+PASS  Letter tab K works while pinned
+PASS  No console problems during navigation
+PASS  Explorer switches to Lemo Krak
+PASS  Explorer switches to Berrie Krak
+PASS  Explorer switches to Coke Krak
+PASS  Explorer switches to Cucum Krak
+PASS  Top hotspot highlights the tray
+PASS  Bottom hotspot highlights the cup
+PASS  Second press clears the highlight
+PASS  Arrow key moves between flavours
+PASS  End key jumps to the last flavour
+PASS  Rapid switching settles fully visible  (1,1,1,1)
+PASS  No console problems in the explorer
+PASS  Spin button starts as "Spin the wheel"
+PASS  Wheel speeds up, then gradually slows  (early 5.9, peak 21.6, late 0.06 deg/frame)
+PASS  Prize equals the segment under the pointer on all 12 real spins  (12/12, 6 different prizes)
+PASS  Spin control is disabled during every spin
+PASS  Rapid clicking cannot start a second spin
+PASS  Wheel always stops clear of a segment edge
+PASS  Button returns as "Play Again"
+PASS  Confetti canvas appears after stopping  (12 bursts)
+PASS  Result is announced in a live region
+PASS  Keyboard Enter starts a spin and focus stays on the button
+PASS  Keyboard Space spins again
+PASS  No console problems on the wheel
+PASS  Reduced motion: no pinned scenes
+PASS  Reduced motion: hero cup is already assembled
+PASS  Reduced motion: tagline notes are visible
+PASS  Reduced motion: nothing is left hidden  (0 hidden)
+PASS  Reduced motion: no running CSS animations  (0)
+PASS  Reduced motion: logo tabs still work
+PASS  Reduced motion: prize matches the pointer on all 150 spins  (150/150, spread 25/26/23/24/23/29)
+PASS  Every prize can be won
+PASS  Reduced motion: no confetti
+PASS  Reduced motion: no console problems
+PASS  320x640: no horizontal overflow  (0px)
+PASS  320x640: all touch targets are at least 44px
+PASS  320x640: no clipped labels
+PASS  320x640: no console problems
+PASS  360x740: no horizontal overflow  (0px)
+PASS  360x740: all touch targets are at least 44px
+PASS  360x740: no clipped labels
+PASS  360x740: no console problems
+PASS  390x844: no horizontal overflow  (0px)
+PASS  390x844: all touch targets are at least 44px
+PASS  390x844: no clipped labels
+PASS  390x844: no console problems
+PASS  768x1024: no horizontal overflow  (0px)
+PASS  768x1024: all touch targets are at least 44px
+PASS  768x1024: no clipped labels
+PASS  768x1024: no console problems
+PASS  820x1180: no horizontal overflow  (0px)
+PASS  820x1180: all touch targets are at least 44px
+PASS  820x1180: no clipped labels
+PASS  820x1180: no console problems
+PASS  1024x768: no horizontal overflow  (0px)
+PASS  1024x768: all touch targets are at least 44px
+PASS  1024x768: no clipped labels
+PASS  1024x768: no console problems
+PASS  1280x720: no horizontal overflow  (0px)
+PASS  1280x720: all touch targets are at least 44px
+PASS  1280x720: no clipped labels
+PASS  1280x720: no console problems
+PASS  1440x900: no horizontal overflow  (0px)
+PASS  1440x900: all touch targets are at least 44px
+PASS  1440x900: no clipped labels
+PASS  1440x900: no console problems
+PASS  1920x1080: no horizontal overflow  (0px)
+PASS  1920x1080: all touch targets are at least 44px
+PASS  1920x1080: no clipped labels
+PASS  1920x1080: no console problems
+PASS  Phone: no pinned scenes
+PASS  Phone: hero cup assembles by itself
+PASS  Phone: menu opens
+PASS  Phone: menu link closes the menu and scrolls
+PASS  Phone: tap spins and the prize matches the pointer  (Mystery Gift, segment 1)
+PASS  Phone: tapping flavours and hotspots works
+PASS  Phone: no console problems
+PASS  First Tab reaches the skip link
+PASS  Lightbox opens and Escape closes it: #post
+PASS  Lightbox opens and Escape closes it: #poster
+PASS  Lightbox opens and Escape closes it: #applications
+PASS  Focus returns to the artwork after closing  (art-btn )
+PASS  Brand post is shown uncropped
+PASS  Poster is shown uncropped
+PASS  Palette drop copies its hex code
+PASS  Tab reaches the interactive controls  (52 of 52)
+PASS  No console problems with dialogs
+
+148 passed, 0 failed

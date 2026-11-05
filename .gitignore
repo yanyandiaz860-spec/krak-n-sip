@@ -1,0 +1,11 @@
+node_modules
+dist
+tests/screenshots
+*.local
+.DS_Store
+# large source material stays out of version control and out of the build
+krak-*/
+krak-*.zip
+
+# local tooling, not part of the site
+.claude/
